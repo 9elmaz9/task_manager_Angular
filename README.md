@@ -1,6 +1,6 @@
 # Task Manager TypeScript
 
-![Project Screenshot](https://files.oaiusercontent.com/file-i0W6pAZy1zTcdhm0PEOAmgzd?se=2024-06-10T21%3A14%3A27Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5a948ec9-695d-4928-8246-f0719a3dd7d0.webp&sig=f3VUgweOmita2iFf6Wgp1GzrMrU%2B3FEeIMXXrDquIeo%3D)
+![Project Screenshot](https://miro.com/blog/wp-content/uploads/2017/06/kanban-illustration-2048x1075.png)
 
 This project is a simple task manager built with TypeScript and Angular.
 
